@@ -19,9 +19,9 @@ const Nav = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            Finding Falcone
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">About</Button>
         </Toolbar>
       </AppBar>
     </div>

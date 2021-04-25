@@ -6,7 +6,7 @@ export default makeStyles((theme) => ({
     flexGrow: 1
   },
   toolbar: {
-        backgroundColor: '#212324'
+        backgroundColor: '#000'
   },
   menuButton: {
     marginRight: theme.spacing(2),
